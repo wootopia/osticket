@@ -159,4 +159,5 @@ define('LOCAL_NETWORKS', '127.0.0.0/24');
 #
 # define('SESSION_BACKEND', 'memcache');
 # define('MEMCACHE_SERVERS', 'server1:11211,server2:11211');
+#
 ?>
